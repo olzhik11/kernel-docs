@@ -119,7 +119,10 @@
           {
             "group": "Overview",
             "pages": [
-              "index"
+              "index",
+              "overview/products",
+              "overview/concepts",
+              "overview/why-kernel"
             ]
           },
           {
@@ -304,13 +307,6 @@
                   "community/github"
                 ]
               }
-            ]
-          },
-          {
-            "group": "Info",
-            "pages": [
-              "info/concepts",
-              "info/unikernels"
             ]
           }
         ]
